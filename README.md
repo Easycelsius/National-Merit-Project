@@ -48,6 +48,7 @@
 - 프로젝트에서 활용한 데이터 : 한글 이름, 한자 이름, 이명, 생년월일, 사망년월일, 성별, 본적 대분류, 본적 중분류, 본적 소분류, 포상년도, 훈격, 운동계열, 공적 개요(국한문 혼용)
 
 ## ERD
+<img src="https://github.com/Easycelsius/National-Merit-Project/blob/main/Document/National-Merit-ERD.jpg" width="90%">
 
 ## 시스템 아키텍처
 <img src="https://github.com/Easycelsius/National-Merit-Project/blob/main/Document/Sys_Archi.jpg" width="90%">
