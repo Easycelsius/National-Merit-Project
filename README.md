@@ -50,7 +50,7 @@
 ## ERD
 
 ## 시스템 아키텍처
-<img src="https://github.com/easycelsius/National-Merit-Project/document/Sys_Archi.jpg" width="90%">
+<img src="https://github.com/Easycelsius/National-Merit-Project/blob/main/Document/Sys_Archi.jpg" width="90%">
 
 ## 활용한 기술
 - Java : Maven Framework, Jsoup, JDBC, MVC/Singleton Pattern, 
